@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/TheSpeedX/TBomb"><img src="https://i.ibb.co/F4HBKqm/TBomb.png" alt="TBomb"></a>
+  <a href="https://github.com/vishalkumar98887777-stack/Messages-Bomber.git"><img src="https://i.ibb.co/F4HBKqm/TBomb.png" alt="TBomb"></a>
   <br>
   TBomb v2.1b
   <br>
@@ -12,7 +12,7 @@
 ## Announcement
 
 **Important Notice:**  
-Due to a combination of low-quality contributions, spam pull requests/issues, and my shift towards exploring new projects, I’ve made the decision to archive this repository. This project has been one of my greatest side projects, and I am deeply grateful for all the support it received. However, maintaining it has become increasingly difficult (special thanks to [@0n1cOn3](https://github.com/0n1cOn3) for handling spammy PRs), and I no longer have the capacity to continue contributing to it.
+Due to a combination of low-quality contributions, spam pull requests/issues, and my shift towards exploring new projects, I’ve made the decision to archive this repository. This project has been one of my greatest side projects, and I am deeply grateful for all the support it received. However, maintaining it has become increasingly difficult (special thanks to [t.me/dewier_mc]for handling spammy PRs), and I no longer have the capacity to continue contributing to it.
 
 The repository will remain usable via GitHub and PyPI, but I will not be adding new features or making updates. Thank you to everyone who has used and contributed to TBomb, and I wish you all the best.
 
@@ -95,7 +95,7 @@ To use the bomber type the following commands in Termux:
 ```shell script
 pkg install git -y 
 pkg install python -y 
-git clone https://github.com/TheSpeedX/TBomb.git
+git clone https://github.com/vishalkumar98887777-stack/Messages-Bomber.git
 cd TBomb
 ./TBomb.sh
 ```
@@ -109,7 +109,7 @@ apk add python3
 apk add py3-pip
 apk add ruby
 gem install toilet
-git clone https://github.com/TheSpeedX/TBomb.git
+git clone https://github.com/vishalkumar98887777-stack/Messages-Bomber.git
 cd TBomb
 pip3 install -r requirements.txt
 chmod +x TBomb.sh
@@ -121,7 +121,7 @@ chmod +x TBomb.sh
 To use the application, type in the following commands in GNU/Linux terminal.
 ```shell script
 sudo apt install git
-git clone https://github.com/TheSpeedX/TBomb.git
+git clone https://github.com/vishalkumar98887777-stack/Messages-Bomber.git
 cd TBomb
 bash TBomb.sh
 ```
@@ -143,7 +143,7 @@ brew install git
 brew install python3
 sudo easy_install pip
 sudo pip install --upgrade pip
-git clone https://github.com/TheSpeedX/TBomb.git
+git clone https://github.com/vishalkumar98887777-stack/Messages-Bomber.git
 cd TBomb
 bash TBomb.sh
 ```
@@ -160,18 +160,9 @@ The package `toilet` cannot be installed yet on macOS. But TBomb does still work
 
 ## Contributors
 
-- Catch **[t0xic0der](https://github.com/t0xic0der)** at https://atlasdoc.netlify.app
-- Check **[Avinash](https://github.com/AvinashReddy3108)** at https://github.com/AvinashReddy3108
-- Mail **[scpketer](https://github.com/scpketer)** at scpketer@protonmail.ch
-- Mail **[0n1cOn3](https://github.com/0n1cOn3)** at 0n1cOn3@gmx.ch
-- Ping **Rieltar** at https://t.me/RieltarReborn
-- Check **[Bishal](https://github.com/kbshal)** at https://github.com/kbshal
-
+- Catch **[LapsusVishal](t.me/LapsusVishal)** 
 
 ### Donators:
-
-- **[34D30Y](34db0y@protonmail.com)**
-- **SC AMAN**
 
 ### TODO:
 
@@ -185,7 +176,7 @@ The package `toilet` cannot be installed yet on macOS. But TBomb does still work
 
 **Q:** Is there any TBomb Website/App ?
 
-**A:** There is no official website/app yet.The only official releases of TBomb are published in [Github](https://github.com/TheSpeedX/TBomb) and [PyPi](https://pypi.org/project/tbomb)
+**A:** There is no official website/app yet.The only official releases of TBomb are published in [Github](https://github.com/vishalkumar98887777-stack/Messages-Bomber.git and [PyPi](https://pypi.org/project/tbomb)
 ##
 **Q:** Poor Internet Connection Detected:
 
@@ -239,7 +230,7 @@ The package `toilet` cannot be installed yet on macOS. But TBomb does still work
 ##
 ### Support
 
-For Queries: [Telegram Group](https://t.me/TBombChat)  
+For Queries: [Telegram Group](https://t.me/LapsusWale)  
 Contributions, issues, and feature requests are welcome!  
 Give a ★ if you like this project!
 
